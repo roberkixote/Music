@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <widget xmlns		= "http://www.w3.org/ns/widgets"
 	xmlns:gap	= "http://phonegap.com/ns/1.0"
-	id		= "com.kixote.music"
-	version 	= "1.0.28">
+	id		= "com.kixoft.music"
+	version 	= "1.0.69">
 
-	<name>Kixote: Music</name>
+	<name>kixoft: Music</name>
 
 	<description>
 		Example of music, play Kill Bill - Silbido.

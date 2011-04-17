@@ -157,7 +157,7 @@ $(document).ready(function() {
         
         // local (on device): copy file to project's /assets folder:
         //var src = '/android_asset/spittinggames.m4a';
-        var src = 'assets/music/killbillsilbido.mp3';
+        var src = 'assets/music/kill-bill-silbido.mp3';
         
         playAudio(src);
     });
